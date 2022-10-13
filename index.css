@@ -1,0 +1,34 @@
+.ozisann{
+    background-color: aqua;
+    padding: 5px;
+    margin: 0px;
+    height: 40px;
+    width: 200px;
+    display: flex;
+    justify-content: center;align-items: center;
+
+}
+.kazuki{
+    border: solid 2px silver;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    justify-content:center;align-items: center;
+}
+h3{
+    font-size: 25px;
+}
+.misaki{
+    border: solid 2px silver;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    justify-content:center;align-items: center;
+}
+#limk2{
+    border: solid 2px silver;
+    width: 200px;
+    height: 40px;
+    display: flex;
+    justify-content:center;align-items: center;
+}
